@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/device_k3g.mk
+    $(LOCAL_DIR)/omni_k3g.mk
